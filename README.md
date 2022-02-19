@@ -10,7 +10,7 @@ a - Tick "WEBUI Partition" for direct  extract. (then specify the WEBUI BIN file
 
 b - Tick 'check firmware containning WebUI' (then specify firmware that contains WEBUI firmware) 
 
-For firmware extract, You need to specify balong_flash according to your router model 
+For firmware extract, You need to specify balong_flash according to the router model 
 Otherwise check "use current version" to use (as default) the one comes within the tool
 
 1 - Press Extract button to start unpacking
