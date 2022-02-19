@@ -7,6 +7,7 @@ It extracts specified Huawei WebUI Or specified Huawei firmware containning WebU
 How to use :
 
 Tick "WEBUI Partition" for direct  extract. (then specify the WEBUI BIN file if already available)
+
 Tick 'check firmware containning webui' (then specify firmware that contains WEBUI firmware) 
 
 For firmware extract, You need to specify balong_flash according to your router model 
