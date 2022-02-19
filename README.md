@@ -1,4 +1,4 @@
-# Huawei
+# Huawei WebUI Tool
 
 Huawei WebUI Tool created for WebUI interface/resource modify.
 It extracts specified Huawei WebUI Or specified Huawei firmware containning WebUI 
