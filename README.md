@@ -13,5 +13,7 @@ For firmware extract, You need to specify balong_flash according to your router 
 Otherwise check "use current version" to use (as default) the one comes within the tool
 
 1 - Press Extract button to start unpacking
-2 - Make changes 
+
+2 - Make changes
+
 3 - Press Compile Button to compile back to webui firmware
